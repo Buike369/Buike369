@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ## Centralized Abitrage Ecommerce 
+ 🔭 I’m currently working on  Centralized Abitrage Ecommerce 
 Exchange for services 
 
  🌱 I’m currently learning 
@@ -14,7 +14,7 @@ Exchange for services
  
  🤔 I’m looking for help with ...
  
- 💬 Ask me about ...
+ 💬 Ask me about Java, React, Postgresql, javascript, Django, Nodejs, Figma, Nextjs, Typescript
  
  📫 How to reach me: chukwubuikekingsley369@gmail.com
  
