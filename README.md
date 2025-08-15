@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Kingsley Chukwubuike
+#  Hi, I'm Kingsley Chukwubuike  👋
 
 💻 **Full-Stack Developer** | 🌍 **Tech Innovator** | 🚀 **Problem Solver**
 
 I’m a passionate and results-driven **Full-Stack Software Developer** with experience in building robust web, mobile, and backend solutions. I specialize in creating high-quality, scalable, and user-friendly applications that bridge the gap between innovative ideas and real-world solutions.
 
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -19,7 +20,7 @@ I’m a passionate and results-driven **Full-Stack Software Developer** with exp
 
 ---
 
-## 📌 What I Do
+##  What I Do
 - Build responsive and dynamic web applications  
 - Develop mobile apps for both **Android** and **iOS**  
 - Design and manage relational databases  
@@ -30,9 +31,9 @@ I’m a passionate and results-driven **Full-Stack Software Developer** with exp
 
 ## 📈 GitHub Stats
 
-![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=ff69b4&style=flat)
+![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Buike369&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buike369&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=Buike369&label=Profile%20Views&color=ff69b4&style=flat)
 
 ---
 
