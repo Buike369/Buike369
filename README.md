@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Developer** | 🌍 **Tech Innovator** | 🚀 **Problem Solver**
 
-I’m a passionate and results-driven **Full-Stack Software Developer** with experience in building robust web, mobile, and backend solutions. I specialize in creating high-quality, scalable, and user-friendly applications that bridge the gap between innovative ideas and real-world solutions.
+I’m a passionate and results-driven **Full-Stack Software Developer** with experience in building robust **web** **mobile** and **backend solutions** I specialize in creating high-quality, scalable, and user-friendly applications that bridge the gap between innovative ideas and real-world solutions.
 
 ---
 
