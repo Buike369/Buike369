@@ -29,7 +29,7 @@ I’m a **Full-Stack Software Developer** with a passion for building scalable, 
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Buike369&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buike369&layout=compact&theme=radical)  
