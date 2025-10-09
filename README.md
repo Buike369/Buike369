@@ -1,4 +1,4 @@
-#  Hi, I'm Kingsley Chukwubuike  👋
+#  Hi, 👋 I'm Kingsley Chukwubuike  
 
 💻 **Full-Stack Developer** | 🌍 **Tech Innovator** | 🚀 **Problem Solver**
 
