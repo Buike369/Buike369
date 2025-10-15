@@ -1,6 +1,6 @@
 #  Hi, 👋 I'm Kingsley Chukwubuike  
 
- **Full-Stack Developer** |  **Tech Innovator** |  **Problem Solver**
+ **Full-Stack Developer** |  **Web Develoer** |  **Mobile App Developer**
 
 I’m a **Full-Stack Software Developer** with a passion for building scalable, user-friendly **web**, **mobile**, and **backend applications**. I focus on turning ideas into real-world solutions that deliver results. Open to collaboration and new opportunities—let’s connect!.
 
