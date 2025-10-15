@@ -38,13 +38,6 @@ I’m a **Full-Stack Software Developer** with a passion for building scalable, 
 
 ---
 
-##  Featured Projects
-- **E-commerce Platform** – Scalable online store with payment integration  
-- **Real-time Chat App** – Cross-platform messaging with socket connections  
-- **Delivery Tracking System** – Real-time location updates with Express & React  
-- **Wallet & Payment System** – Secure wallet system integrated with Flutterwave/Paystack
-
----
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwubuike-kingsley-1a6054224)  
