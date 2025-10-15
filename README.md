@@ -48,5 +48,5 @@ I’m a **Full-Stack Software Developer** with a passion for building scalable, 
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+> “Code is what I love doing. Not angry always feel happen when debugging and solving issues, on software and programming.” – *Chukwubuike Kingsley*
 
