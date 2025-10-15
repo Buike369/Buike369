@@ -48,5 +48,5 @@ I’m a **Full-Stack Software Developer** with a passion for building scalable, 
 
 ---
 
-> “Code is what I love doing. Not angry always feel happen when debugging and solving issues, on software and programming.” – *Chukwubuike Kingsley*
+> “I love writing code and solving problems. Debugging doesn’t make me upset — it makes me excited because every fix brings me closer to creating something great.” – *Chukwubuike Kingsley*
 
