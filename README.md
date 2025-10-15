@@ -10,13 +10,16 @@ I’m a **Full-Stack Software Developer** with a passion for building scalable, 
 ## 🛠 Tech Stack
 
 **Frontend:**  
-⚛ React | 📱 React Native | 🎯 Flutter | 🎨 JavaScript (ES6+)
+ React | React Native | Flutter | JavaScript (ES6+)
 
 **Backend:**  
-🟢 Node.js | 🚂 Express.js | 🐍 Django | ☕ Java
+ Node.js | Express.js | Django | Java | Python
 
 **Databases:**  
-🐘 PostgreSQL | 🗄 MySQL
+ PostgreSQL | MySQL | MongoDb
+
+**Version Control:**  
+ Git | Github
 
 ---
 
@@ -30,9 +33,7 @@ I’m a **Full-Stack Software Developer** with a passion for building scalable, 
 ---
 
 ##  GitHub Stats
-
-![Kingsley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Buike369&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buike369&layout=compact&theme=radical)  
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=Buike369&label=Profile%20Views&color=ff69b4&style=flat)
 
 ---
