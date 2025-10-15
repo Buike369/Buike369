@@ -32,6 +32,12 @@ I’m a **Full-Stack Software Developer** with a passion for building scalable, 
 
 ---
 
+##  portfolio
+ 
+![Portfolio link](https://kingsley-self.vercel.app)
+
+---
+
 ##  GitHub Stats
  
 ![Profile Views](https://komarev.com/ghpvc/?username=Buike369&label=Profile%20Views&color=ff69b4&style=flat)
